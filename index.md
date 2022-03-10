@@ -14,7 +14,7 @@ Azure DevOps Engineer Expert (AZ400), Azure Administrator (AZ104), Ansible
 
 ## Experience
 
-HPE, Azure & DevOps PSE - 05/2021 to Today\
+#### HPE, Azure & DevOps PSE - 05/2021 to Today\
 •	Work with small and big organization.\
 •	Automate deployment of WIN/LINUX servers using Terraform and Puppet/Ansible.\
 •	Develop and maintained IaC in a complex environment\
@@ -22,7 +22,7 @@ HPE, Azure & DevOps PSE - 05/2021 to Today\
 •	Migrate organizations to Azure IaaS and PaaS\
 •	Monitor Environments using Log Analytics and integrate to external services\
 
-ICL, Azure & DevOps - 07/2021 to 05/2021\
+#### ICL, Azure & DevOps - 07/2021 to 05/2021\
 •	Develop a CI/CD pipelines\
 •	Implement DevOps proccess using Azure DevOps\
 •	Building tools for external teams\
