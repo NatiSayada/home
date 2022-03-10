@@ -1,6 +1,6 @@
 # Netanel (Nati) Sayada
 
-Beersheba | +972 50 9969 069 | ssnetanel@gmail.com | LinkedIn | GitHub | Medium
+Beersheba | +972 50 9969 069 | ssnetanel@gmail.com | [LinkedIn](https://www.linkedin.com/in/netanel-sayada-42157227/) | [GitHub](https://github.com/NatiSayada) | [Medium](https://medium.com/@ssnetanel)
 
 ## Summary
 
