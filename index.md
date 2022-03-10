@@ -1,6 +1,6 @@
 # Netanel (Nati) Sayada | <div style="text-align: left"><img src="profile-pic-1.png" width="100" /></div>
 
-![image alt >](profile-pic-1.png =100x) Beersheba | +972 50 9969 069 | <ssnetanel@gmail.com> | [LinkedIn](https://www.linkedin.com/in/netanel-sayada-42157227/) | [GitHub](https://github.com/NatiSayada) | [Medium](https://medium.com/@ssnetanel)
+![profile_pic](profile-pic-1.png){ width=50% } Beersheba | +972 50 9969 069 | <ssnetanel@gmail.com> | [LinkedIn](https://www.linkedin.com/in/netanel-sayada-42157227/) | [GitHub](https://github.com/NatiSayada) | [Medium](https://medium.com/@ssnetanel)
 
 ## Summary
 
