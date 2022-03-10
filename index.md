@@ -20,7 +20,7 @@ Azure DevOps Engineer Expert (AZ400), Azure Administrator (AZ104), Ansible
 •	Develop and maintained IaC in a complex environment\
 •	Work with WIN and Linux as one\
 •	Migrate organizations to Azure IaaS and PaaS\
-•	Monitor Environments using Log Analytics and integrate to external services\
+•	Monitor Environments using Log Analytics and integrate to external services
 
 #### ICL, Azure & DevOps - 07/2021 to 05/2021
 •	Develop a CI/CD pipelines\
@@ -28,7 +28,7 @@ Azure DevOps Engineer Expert (AZ400), Azure Administrator (AZ104), Ansible
 •	Building tools for external teams\
 •	Develop integration process using Azure Logic App and Functions\
 •	Supporting Mobile Dev team\
-•	Utilizing Auth2.0 for all mobile applications\
+•	Utilizing Auth2.0 for all mobile applications
 
 ## Skills
 
